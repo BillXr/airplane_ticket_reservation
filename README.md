@@ -13,8 +13,16 @@ This program gives client through a gui to choose the option he wants.He can mak
 + Insert values
 
 <p align="center">
-  <img src=/images/insert values.PNG />
+  <img src=/images/java4.PNG  width="600" height="400" />
 </p>
+
++ Save locally
+
+<p align="center">
+  <img src=/images/save changes.PNG />
+</p>
+
+
 
 Also he can watch the list of tickets in a new frame with list button that has already been booked and check for informations.In this frame there are 3 new buttons for new reservation,refresh of the list and exit.
 

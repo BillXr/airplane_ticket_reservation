@@ -6,7 +6,9 @@ This program gives client through a gui to choose the option he wants.He can mak
 
 ## Images
 
-![Menu](https://github.com/BillXr/Airplane-ticket-reservation/blob/main/images/menu.png?raw=true)
+![Menu](https://github.com/BillXr/Airplane-ticket-reservation/blob/main/images/menu.png?raw=true "Menu")
+
+![menu](menu.png)
 
 Also he can watch the list of tickets in a new frame with list button that has already been booked and check for informations.In this frame there are 3 new buttons for new reservation,refresh of the list and exit.
 

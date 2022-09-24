@@ -49,6 +49,7 @@ For the above actions he can use the buttons that are placed on the frame or he 
 
 ### Requirements
 
+Install `java jdk`
 ```
 C:\Users\bill>java --version
 java 11.0.10 2021-01-19 LTS

@@ -35,7 +35,13 @@ Also he can watch the list of tickets in a new frame with list button that has a
   <img src=/images/ticket_list.PNG  width="500" height="400" />
 </p>
 
-Furthermore with the about button or about item from menu he can see details about the app.
+Furthermore with the about button or about item from menu he can see details about the developer of the app.
+
++ Info
+
+<p align="center">
+  <img src=/images/info.PNG  width="300" height="300" />
+</p>
 
 He can exit the app through the X button on the upper right corner.
 

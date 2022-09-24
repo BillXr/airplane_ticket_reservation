@@ -18,11 +18,10 @@ This program gives client through a gui to choose the option he wants.He can mak
 
 + Save locally
 
-<p align="left">
-  <img src=/images/choose_file.PNG width="450" height="400" />
-</p>
+<p>
+  <img src=/images/choose_file.PNG width="450" height="350" />
 
-<p align="right">
+
   <img src=/images/save_changes.PNG width="450" height="350" />
 </p>
 
@@ -54,6 +53,8 @@ He can exit the app through the X button on the upper right corner.
 For the above actions he can use the buttons that are placed on the frame or he can access them from the menu item that has been created on the upper left corner.
 
 ### Requirements
+
+You should have a jdk installed on your machine
 
 Install `java jdk`
 ```

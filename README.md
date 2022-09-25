@@ -56,7 +56,8 @@ You should have a jdk installed on your machine.
 
 You can download java from <a href="https://www.oracle.com/java/technologies/downloads/"> here</a>.
 
-Install `java jdk`
+Install java and check version `java --version`
+
 ```
 C:\Users\bill>java --version
 java 11.0.10 2021-01-19 LTS

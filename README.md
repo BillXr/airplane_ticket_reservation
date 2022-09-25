@@ -52,7 +52,9 @@ For the above actions he can use the buttons that are placed on the frame or he 
 
 ### Requirements
 
-You should have a jdk installed on your machine
+You should have a jdk installed on your machine.
+
+You can download java from <a href="https://www.oracle.com/java/technologies/downloads/"> here</a>.
 
 Install `java jdk`
 ```

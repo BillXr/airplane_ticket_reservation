@@ -54,7 +54,7 @@ For the above actions he can use the buttons that are placed on the frame or he 
 
 You should have a jdk installed on your machine.
 
-You can download java from <a href="https://www.oracle.com/java/technologies/downloads/"> here</a>.
+You can download java from <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> here.</a>
 
 Install java and check version `java --version`
 

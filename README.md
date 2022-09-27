@@ -1,6 +1,6 @@
 # Airplane-ticket-reservation
 
-Java project with gui (java swing) for airplane tickets reservation.
+Java project with java swing for airplane tickets reservation.
 
 This program gives client through a gui to choose the option he wants.He can make a new ticket reservation with his informations and add it to a list using the new button,which will be saved in a file locally in our system.
 

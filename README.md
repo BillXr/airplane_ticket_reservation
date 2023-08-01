@@ -16,11 +16,11 @@ This program gives client through a gui to choose the option he wants.He can mak
   <img src=/images/java4.PNG  width="500" height="300" />
 </p>
 
-+ Save locally
+ + Save locally
 
 <p>
-  <img src=/images/choose_file.PNG width="450" height="350" />
-  <img src=/images/save_changes.PNG width="450" height="350" />
+  <img src=/images/choose_file.PNG width="400" height="350" />
+  <img src=/images/save_changes.PNG width="400" height="350" />
 </p>
 
 
